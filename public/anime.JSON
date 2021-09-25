@@ -2,28 +2,32 @@
   {
     "name": "Goku",
     "universe": "Dragon Ball Z",
-    "img": "./goku.png",
+    "key": "1",
+    "img": "https://images6.alphacoders.com/100/1009459.jpg",
     "powerLevel": 3000000,
     "points": 90000
   },
   {
-    "name": "Goku",
-    "universe": "Dragon Ball Z",
-    "img": "./goku.png",
+    "name": "Naruto",
+    "universe": "Naruto",
+    "key": "2",
+    "img": "https://www.ixpap.com/images/2021/01/hd-naruto-wallpaper-ixpap-1.jpg",
     "powerLevel": 3000000,
     "points": 90000
   },
   {
-    "name": "Goku",
-    "universe": "Dragon Ball Z",
-    "img": "./goku.png",
+    "name": "Luffy",
+    "universe": "One Piece",
+    "key": "3",
+    "img": "https://w0.peakpx.com/wallpaper/496/428/HD-wallpaper-one-piece-luffy-anime-monkey-d-luffy-one-piece.jpg",
     "powerLevel": 3000000,
     "points": 90000
   },
   {
-    "name": "Goku",
-    "universe": "Dragon Ball Z",
-    "img": "./goku.png",
+    "name": "Ichigo",
+    "universe": "Bleach",
+    "key": "4",
+    "img": "https://www.wallpapertip.com/wmimgs/10-101538_download-bleach-wallpaper-full-hd-wallpapers-ichigo-final.jpg",
     "powerLevel": 3000000,
     "points": 90000
   }

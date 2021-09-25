@@ -1,6 +1,5 @@
 .header {
-  background: url("../../img/dd967ka-b1643f7a-d92e-47b9-9b81-c35e65f9b1cf2.jpg")
-    no-repeat center center/cover;
+  background: url("../../img/itachi2.jpg") no-repeat top center/cover;
   text-align: center;
   position: relative;
   background-attachment: scroll;
@@ -9,7 +8,7 @@
 .header::after {
   position: absolute;
   content: "";
-  background: rgba(0, 0, 0, 0.95);
+  background: rgba(0, 0, 0, 0.92);
   top: 0;
   left: 0;
   width: 100%;
@@ -18,5 +17,10 @@
 }
 h1 {
   margin: 0;
-  color: white;
+}
+.text-whitish {
+  color: #d4ecdd;
+}
+.text-blue {
+  color: #316b83;
 }
