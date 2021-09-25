@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Goku",
+    "universe": "Dragon Ball Z",
+    "img": "./goku.png",
+    "powerLevel": 3000000,
+    "points": 90000
+  },
+  {
+    "name": "Goku",
+    "universe": "Dragon Ball Z",
+    "img": "./goku.png",
+    "powerLevel": 3000000,
+    "points": 90000
+  },
+  {
+    "name": "Goku",
+    "universe": "Dragon Ball Z",
+    "img": "./goku.png",
+    "powerLevel": 3000000,
+    "points": 90000
+  },
+  {
+    "name": "Goku",
+    "universe": "Dragon Ball Z",
+    "img": "./goku.png",
+    "powerLevel": 3000000,
+    "points": 90000
+  }
+]
