@@ -6,9 +6,10 @@ import "./dashboard.css";
 const Dashboard = () => {
   const [characters, setcharacters] = useState([]);
   const [teamMember, setTeamMember] = useState([]);
-
+  /*
+<---------------- Fetching Data from JSON file by useEffect ---------------->
+*/
   useEffect(() => {
-    // fetch("https://mohaiminul69.github.io/anime-json/anime.JSON")
     fetch("./anime.JSON")
       .then((res) => res.json())
       .then((data) => setcharacters(data));

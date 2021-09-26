@@ -2,7 +2,11 @@ import React from "react";
 import "./cart.css";
 
 const Cart = (props) => {
+  /*
+<-------------------- Destructuring teamMember From Props -------------------->
+*/
   const { teamMember } = props;
+  // Calculating total cost by reduce
   const totalCost = teamMember.reduce(
     (previousMember, currentMember) => previousMember + currentMember.points,
     0

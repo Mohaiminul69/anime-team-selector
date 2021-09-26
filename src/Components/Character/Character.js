@@ -5,14 +5,20 @@ import { faUserPlus, faStar } from "@fortawesome/free-solid-svg-icons";
 import Rating from "react-rating";
 
 const Character = (props) => {
-  const element = <FontAwesomeIcon icon={faUserPlus} />;
+  const addMemberIcon = <FontAwesomeIcon icon={faUserPlus} />;
   const fullStar = <FontAwesomeIcon icon={faStar} />;
+  /*
+<------------------ Destructuring Character From Props ------------------>
+*/
   const { character, handleAddMember } = props;
+  /*
+<---------------- Destructuring Properties From Character ---------------->
+*/
   const { name, img, universe, powerLevel, points, rating, disable } =
     character;
   return (
     <div className="character-card">
-      <img className="mx-auto mb-3" src={img} alt="not" />
+      <img className="mx-auto mb-1" src={img} alt="not" />
       <table className="table text-whitish fw-bold">
         <tbody>
           <tr>
@@ -50,7 +56,7 @@ const Character = (props) => {
         onClick={() => handleAddMember(character)}
         className="btn btn-danger text-capitalize text-whitish"
       >
-        {element} add to team
+        {addMemberIcon} add to team
       </button>
     </div>
   );
