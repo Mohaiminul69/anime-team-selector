@@ -13,19 +13,19 @@ const Character = (props) => {
   return (
     <div className="character-card">
       <img className="mx-auto mb-3" src={img} alt="not" />
-      <table className="table text-whitish">
+      <table className="table text-whitish fw-bold">
         <tbody>
           <tr>
-            <td>Name</td>
+            <td>Name:</td>
             <td>{name}</td>
           </tr>
           <tr>
-            <td>Universe</td>
+            <td>Universe:</td>
             <td>{universe}</td>
           </tr>
           <tr>
-            <td>Rating</td>
-            <td>
+            <td>Rating:</td>
+            <td className="text-warning">
               <Rating
                 emptySymbol="far fa-star"
                 fullSymbol={fullStar}
@@ -35,12 +35,12 @@ const Character = (props) => {
             </td>
           </tr>
           <tr>
-            <td className="min-width">Power Level</td>
-            <td>{powerLevel}</td>
+            <td className="custom-width">Power Level:</td>
+            <td>{powerLevel}+</td>
           </tr>
           <tr>
-            <td>Points</td>
-            <td>{points}</td>
+            <td>Points:</td>
+            <td>{points} M</td>
           </tr>
         </tbody>
       </table>

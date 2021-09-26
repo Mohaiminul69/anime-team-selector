@@ -24,11 +24,19 @@ img {
 .text-blue {
   color: #316b83;
 }
-.min-width {
-  width: 52%;
+.custom-width {
+  width: 50%;
 }
 table {
   margin-bottom: 0 !important;
+}
+table td:first-child {
+  /* padding-left: 0; */
+  padding-right: 0;
+}
+table td:last-child {
+  padding-left: 0;
+  padding-right: 0;
 }
 table tr:last-child td {
   border-bottom: none;

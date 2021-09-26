@@ -15,12 +15,13 @@ const Cart = (props) => {
         Members Added: <span className="text-danger">{teamMember.length}</span>
       </h5>
       <h5 className="mb-4">
-        Total Cost: <span className="text-danger">{totalCost}</span> points
+        Total Cost:{" "}
+        <span className="text-danger">{totalCost.toFixed(1)} M</span> points
       </h5>
       <hr />
       <h4 className="text-danger">Team Members List:</h4>
       {teamMember.map((member) => (
-        <h5 className="added-members">
+        <h5 key={member.key} className="added-members">
           {teamMember.indexOf(member) + 1}# <img src={member.img} alt="" />{" "}
           {member.name}
         </h5>

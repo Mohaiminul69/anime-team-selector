@@ -12,7 +12,7 @@ const Header = () => {
         The world is about to end, and all the American Superheros are busy, so
         we need to rely on japanese animes.
       </h5>
-      <h3 className="text-blue">Total Budget: 400 Billion</h3>
+      <h3 className="text-blue">Total Budget: 100 Million</h3>
     </div>
   );
 };

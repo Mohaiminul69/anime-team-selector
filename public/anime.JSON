@@ -6,7 +6,7 @@
     "img": "https://images6.alphacoders.com/100/1009459.jpg",
     "rating": 5,
     "powerLevel": 3000000,
-    "points": 90000,
+    "points": 9.0,
     "disable": false
   },
   {
@@ -15,8 +15,8 @@
     "key": "2",
     "img": "https://www.ixpap.com/images/2021/01/hd-naruto-wallpaper-ixpap-1.jpg",
     "rating": 5,
-    "powerLevel": 3000000,
-    "points": 90000,
+    "powerLevel": 2400000,
+    "points": 8.7,
     "disable": false
   },
   {
@@ -25,8 +25,8 @@
     "key": "3",
     "img": "https://www.xtrafondos.com/wallpapers/vegeta-2020-5342.jpg",
     "rating": 4.9,
-    "powerLevel": 3000000,
-    "points": 90000,
+    "powerLevel": 2800000,
+    "points": 8.4,
     "disable": false
   },
   {
@@ -35,8 +35,8 @@
     "key": "4",
     "img": "https://i.pinimg.com/564x/73/57/30/735730343e2c0e990da0ac98f169f867.jpg",
     "rating": 4.5,
-    "powerLevel": 3000000,
-    "points": 90000,
+    "powerLevel": 2100000,
+    "points": 8.3,
     "disable": false
   },
   {
@@ -45,8 +45,8 @@
     "key": "5",
     "img": "https://w0.peakpx.com/wallpaper/496/428/HD-wallpaper-one-piece-luffy-anime-monkey-d-luffy-one-piece.jpg",
     "rating": 4.5,
-    "powerLevel": 3000000,
-    "points": 90000,
+    "powerLevel": 2500000,
+    "points": 7.7,
     "disable": false
   },
   {
@@ -54,9 +54,9 @@
     "universe": "Bleach",
     "key": "6",
     "img": "https://www.wallpapertip.com/wmimgs/10-101538_download-bleach-wallpaper-full-hd-wallpapers-ichigo-final.jpg",
-    "rating": 3,
-    "powerLevel": 3000000,
-    "points": 90000,
+    "rating": 3.5,
+    "powerLevel": 700000,
+    "points": 6.0,
     "disable": false
   },
   {
@@ -65,8 +65,8 @@
     "key": "7",
     "img": "https://www.teahub.io/photos/full/202-2026865_u-mblaze111-fictional-character-superhero-illustration-saitama.png",
     "rating": 5,
-    "powerLevel": 3000000,
-    "points": 90000,
+    "powerLevel": 2600000,
+    "points": 8.4,
     "disable": false
   },
   {
@@ -75,8 +75,48 @@
     "key": "8",
     "img": "https://i.pinimg.com/564x/14/41/9f/14419feb5d4c2befe080109e9cba8b2c.jpg",
     "rating": 4,
-    "powerLevel": 3000000,
-    "points": 90000,
+    "powerLevel": 1800000,
+    "points": 6.7,
+    "disable": false
+  },
+  {
+    "name": "Trunks",
+    "universe": "Dragon Ball",
+    "key": "9",
+    "img": "https://wallpapercave.com/wp/wp5206418.jpg",
+    "rating": 4,
+    "powerLevel": 2000000,
+    "points": 6.7,
+    "disable": false
+  },
+  {
+    "name": "Zoro",
+    "universe": "One Piece",
+    "key": "10",
+    "img": "https://static.zerochan.net/Roronoa.Zoro.full.1221289.jpg",
+    "rating": 4.5,
+    "powerLevel": 1900000,
+    "points": 6.9,
+    "disable": false
+  },
+  {
+    "name": "Todoroki",
+    "universe": "Hero Academia",
+    "key": "11",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_6XQZJ6JBNnYDUz_sS7t6bBEENEac9yYHpOnG7TNgRkBlrJOANdd3VJu-BewqzRO-Os&usqp=CAU",
+    "rating": 4,
+    "powerLevel": 1800000,
+    "points": 6.7,
+    "disable": false
+  },
+  {
+    "name": "Bakugo",
+    "universe": "Hero Academia",
+    "key": "12",
+    "img": "https://wallpapercave.com/wp/wp6482927.jpg",
+    "rating": 4,
+    "powerLevel": 1700000,
+    "points": 6.6,
     "disable": false
   }
 ]
