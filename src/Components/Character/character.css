@@ -3,6 +3,7 @@ img {
   height: 100px;
   object-fit: cover;
   border-radius: 50%;
+  border: 2px solid #d4ecdd;
 }
 .character-card {
   background: #d4ecdd;
@@ -14,10 +15,21 @@ img {
   flex-direction: column;
   justify-content: space-between;
   text-align: left;
+  box-shadow: 0.25em 0.25em 0.75em rgb(0 0 0 / 55%),
+    0.125em 0.125em 0.25em rgb(0 0 0 / 25%);
 }
 .text-whitish {
   color: #d4ecdd;
 }
 .text-blue {
   color: #316b83;
+}
+.min-width {
+  width: 52%;
+}
+table {
+  margin-bottom: 0 !important;
+}
+table tr:last-child td {
+  border-bottom: none;
 }

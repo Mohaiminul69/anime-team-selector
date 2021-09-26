@@ -1,34 +1,82 @@
 [
   {
     "name": "Goku",
-    "universe": "Dragon Ball Z",
+    "universe": "Dragon Ball",
     "key": "1",
     "img": "https://images6.alphacoders.com/100/1009459.jpg",
+    "rating": 5,
     "powerLevel": 3000000,
-    "points": 90000
+    "points": 90000,
+    "disable": false
   },
   {
     "name": "Naruto",
     "universe": "Naruto",
     "key": "2",
     "img": "https://www.ixpap.com/images/2021/01/hd-naruto-wallpaper-ixpap-1.jpg",
+    "rating": 5,
     "powerLevel": 3000000,
-    "points": 90000
+    "points": 90000,
+    "disable": false
+  },
+  {
+    "name": "Vegeta",
+    "universe": "Dragon Ball",
+    "key": "3",
+    "img": "https://www.xtrafondos.com/wallpapers/vegeta-2020-5342.jpg",
+    "rating": 4.9,
+    "powerLevel": 3000000,
+    "points": 90000,
+    "disable": false
+  },
+  {
+    "name": "Sasuke",
+    "universe": "Naruto",
+    "key": "4",
+    "img": "https://i.pinimg.com/564x/73/57/30/735730343e2c0e990da0ac98f169f867.jpg",
+    "rating": 4.5,
+    "powerLevel": 3000000,
+    "points": 90000,
+    "disable": false
   },
   {
     "name": "Luffy",
     "universe": "One Piece",
-    "key": "3",
+    "key": "5",
     "img": "https://w0.peakpx.com/wallpaper/496/428/HD-wallpaper-one-piece-luffy-anime-monkey-d-luffy-one-piece.jpg",
+    "rating": 4.5,
     "powerLevel": 3000000,
-    "points": 90000
+    "points": 90000,
+    "disable": false
   },
   {
     "name": "Ichigo",
     "universe": "Bleach",
-    "key": "4",
+    "key": "6",
     "img": "https://www.wallpapertip.com/wmimgs/10-101538_download-bleach-wallpaper-full-hd-wallpapers-ichigo-final.jpg",
+    "rating": 3,
     "powerLevel": 3000000,
-    "points": 90000
+    "points": 90000,
+    "disable": false
+  },
+  {
+    "name": "Saitama",
+    "universe": "One Punch Man",
+    "key": "7",
+    "img": "https://www.teahub.io/photos/full/202-2026865_u-mblaze111-fictional-character-superhero-illustration-saitama.png",
+    "rating": 5,
+    "powerLevel": 3000000,
+    "points": 90000,
+    "disable": false
+  },
+  {
+    "name": "Midoriya",
+    "universe": "Hero Academia",
+    "key": "8",
+    "img": "https://i.pinimg.com/564x/14/41/9f/14419feb5d4c2befe080109e9cba8b2c.jpg",
+    "rating": 4,
+    "powerLevel": 3000000,
+    "points": 90000,
+    "disable": false
   }
 ]
