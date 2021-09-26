@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Project Name: Anime Team Selector
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is deployed at https://anime-team-selector.netlify.app/.
 
 ## Available Scripts
 
